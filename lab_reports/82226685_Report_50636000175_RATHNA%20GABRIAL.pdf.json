@@ -1,0 +1,468 @@
+{
+  "file": "lab_reports/82226685_Report_50636000175_RATHNA%20GABRIAL.pdf",
+  "extracted_info": {
+    "patient_name": "Mrs RATHNA GABRIAL Gender",
+    "tests": [
+      {
+        "test_name": "Female Lab ID",
+        "value": "50636000175",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "79",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "F",
+        "value": "102",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Potassium",
+        "value": "4.57",
+        "unit": "mEq/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "1",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Female Lab ID",
+        "value": "50636000175",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "79",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Please Note change in reference range as per ADA",
+        "value": "2021",
+        "unit": "guidelines",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "2",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Female Lab ID",
+        "value": "50636000175",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "79",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "3",
+        "unit": "of",
+        "confidence": 1.0
+      }
+    ],
+    "confidence": 1.0
+  },
+  "entities": [
+    {
+      "text": "MC-6072\nLABORATORY REPORT - FINAL\nName",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "50636000175",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Kasturinagar Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Plasma Glucose - F 102",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "100",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "100 - 125",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "126",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "ADA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2012",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Plasma Fluoride F Coll",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time:03",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time:03",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50636000175",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Kasturinagar Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "7.1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.6 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.7 - 6.4 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6.5 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "ADA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2012",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimated Avg Glucose",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "3 Mths",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "157.07",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "ADA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2021",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8-12 weeks",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "RBC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "SS",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "SC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fructosamine",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Kumar V\nNote:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Kumar V\n",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50636000175",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Kasturinagar Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time:03",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "non-NARL",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "NARL",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Note:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    }
+  ]
+}

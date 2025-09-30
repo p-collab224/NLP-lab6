@@ -1,0 +1,2345 @@
+{
+  "file": "lab_reports/91681339_f3b8288c-4bcf-4c1c-b242-e05f152b8e62%20SWARNA%20LATA.pdf",
+  "extracted_info": {
+    "patient_name": "Mrs. SWARNA LATA",
+    "tests": [
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Creatinine",
+        "value": "0.63",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "GFR Estimated",
+        "value": "114",
+        "unit": "mL/min/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Urea",
+        "value": "17.00",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Urea Nitrogen Blood",
+        "value": "7.94",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Creatinine Ratio",
+        "value": "13",
+        "unit": "Uric",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Acid",
+        "value": "3.40",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "GGTP",
+        "value": "13.0",
+        "unit": "U/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Bilirubin Total",
+        "value": "0.63",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Bilirubin Direct",
+        "value": "0.11",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Bilirubin Indirect",
+        "value": "0.52",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Total Protein",
+        "value": "7.20",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Albumin",
+        "value": "3.90",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Total",
+        "value": "8.70",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "1",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Phosphorus",
+        "value": "4.26",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Sodium",
+        "value": "134.90",
+        "unit": "mEq/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Potassium",
+        "value": "5.75",
+        "unit": "mEq/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Chloride",
+        "value": "104.00",
+        "unit": "mEq/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "2",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Total",
+        "value": "174.00",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Triglycerides",
+        "value": "140.00",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "HDL Cholesterol",
+        "value": "45.00",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Calculated",
+        "value": "101.00",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Calculated",
+        "value": "28.00",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "HDL Cholesterol",
+        "value": "129",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Note",
+        "value": "1.",
+        "unit": "Measurements",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "samples",
+        "value": "1",
+        "unit": "week",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "pharmacological intervention for at least",
+        "value": "3",
+        "unit": "months",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "3",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Glucose Fasting",
+        "value": "93.00",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Cyanocobalamin",
+        "value": "133.80",
+        "unit": "pg/mL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Notes",
+        "value": "1.",
+        "unit": "Interpretation",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "more specific",
+        "value": "3.",
+        "unit": "False",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "MMA measurement should be considered in such patients",
+        "value": "4.",
+        "unit": "The",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Hydroxy",
+        "value": "33.17",
+        "unit": "nmol/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "4",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "levels exceeding",
+        "value": "75",
+        "unit": "nmol/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Total",
+        "value": "1.36",
+        "unit": "ng/mL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Note",
+        "value": "1.",
+        "unit": "TSH",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "pm",
+        "value": ".",
+        "unit": "The",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "variation is of the order of",
+        "value": "50",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "concentration",
+        "value": "4.",
+        "unit": "Values",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "5",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "6",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "c",
+        "value": "5.4",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "7",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Hemoglobin",
+        "value": "9.10",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "RBC Count",
+        "value": "4.51",
+        "unit": "mill/mm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "MCV",
+        "value": "73.80",
+        "unit": "fL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Mentzer Index",
+        "value": "16.4",
+        "unit": "MCH",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "MCHC",
+        "value": "27.30",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Segmented Neutrophils",
+        "value": "66.60",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Lymphocytes",
+        "value": "23.80",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Monocytes",
+        "value": "5.90",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Eosinophils",
+        "value": "2.90",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Basophils",
+        "value": "0.80",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Neutrophils",
+        "value": "4.20",
+        "unit": "thou/mm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Lymphocytes",
+        "value": "1.50",
+        "unit": "thou/mm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Monocytes",
+        "value": "0.37",
+        "unit": "thou/mm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Eosinophils",
+        "value": "0.18",
+        "unit": "thou/mm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "8",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Basophils",
+        "value": "0.05",
+        "unit": "thou/mm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Platelet Count",
+        "value": "478",
+        "unit": "thou/mm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Mean Platelet Volume",
+        "value": "10.1",
+        "unit": "fL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Note",
+        "value": "1.",
+        "unit": "As",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "blood",
+        "value": "2.",
+        "unit": "Test",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "9",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "466917439",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "41",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Collected",
+        "value": "8",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "AM Reported",
+        "value": "9",
+        "unit": "/",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Kindly submit request within",
+        "value": "72",
+        "unit": "hours",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "10",
+        "unit": "of",
+        "confidence": 1.0
+      }
+    ],
+    "confidence": 1.0
+  },
+  "entities": [
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "SERUM",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "114",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "59",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "GFR",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "17.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "17.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Urea Nitrogen Blood",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "6.00 - 20.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "BUN/Creatinine Ratio",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2.60 - 6.00",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "21.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "IFCC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "SGPT",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "IFCC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "IFCC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Alkaline Phosphatase",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "79.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "IFCC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "AMP BUFFER",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bilirubin Total",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "1.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Bilirubin Direct",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.11",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.00 - 0.30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Bilirubin Indirect",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.52",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1.10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Total Protein",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "7.20",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Biuret",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Albumin 3.90",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.50 - 5.20",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1.18 0.90 - 2.00",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "Globulin(Calculated",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "gm",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2.0 - 3.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "8.60",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2.40",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "134.90 mEq",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.75 mEq",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3.50",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "101.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "SERUM",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "CHO-POD",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cholesterol",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "174.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "200.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "140.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "150.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "HDL Cholesterol",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "45.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "LDL Cholesterol",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "101.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "100.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "VLDL Cholesterol",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "28.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "30.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Non-HDL Cholesterol",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "129",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Three",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1 week",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total Cholesterol, Triglycerides, HDL& LDL Cholesterol",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "ASCVD",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lipid Association of India 2020",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "LDL CHOLESTEROL",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "50",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "80",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Risk Group",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Risk Group",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "60 |\n|",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "50",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "80",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "70",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "100",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Moderate",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "130",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "100 | <130",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "at least 3 months",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "93.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "70.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "VITAMIN",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "B12",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "CYANOCOBALAMIN",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cyanocobalamin",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "133.80",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "180.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Remarks",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "180 - 914",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Indeterminate",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "120",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Deficient",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "120",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Methylmalonic",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "MMA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "VITAMIN",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "SERUM",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Hydroxy",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "33.17",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "75.00 - 250",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "L|",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Deficient",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Insufficient",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "50-74",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Parathyroid",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "Sufficient",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "75-250",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Optimal",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "250",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "D2 (Ergocalciferol",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "D3",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cholecalciferol",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "D.",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "75",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "40-50%",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "winter",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "summer",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vitamin D",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "LC-MS/MS",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "PROFILE",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "TOTAL",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "SERUM",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "T3",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "1.36",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.70 - 2.04",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "11.81",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.74",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "TSH",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.15",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.34 - 5.60",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "6-10 pm",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "50%",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Thyroid",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Total T3",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "/Free",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "T3",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "T4/T3",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.03",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Page 5",
+      "label": "LAW",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "6",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "HPLC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "NGSP",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.4 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "4.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "108",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "18",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Diabetic\nInterpretation",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "American Diabetes Association",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "ADA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reference Group",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Non",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "18 years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Prediabetes",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "4.0-5.6",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.7",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "6.5 | <7.0 |",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "Hemoglobin",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "HbF",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "erythrocyte",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "loss,|",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Hb",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "HbSS",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "HbCC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "HbSC",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "7",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "ADDRESS",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "KADUBEESANAHALLI",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "CBC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Flow Cytometery",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "SLS",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "12.00 - 15.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "PCV",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "33.30 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "36.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "RBC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.80",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "MCV",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "73.80",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "83.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Mentzer",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "16.4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "20.20",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "27.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "MCHC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "27.30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "31.50 - 34.50",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Red Cell Distribution Width",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "RDW",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "18.70 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "11.60 - 14.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "TLC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "6.30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Differential Leucocyte Count",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Segmented",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "66.60 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "40.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "23.80 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "20.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Monocytes",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.90 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "2.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2.90 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "1.00 - 6.00",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.80 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "2.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4.20",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1.50",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Monocytes",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.37",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.18",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.02",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "8",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "ADDRESS",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "KADUBEESANAHALLI",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.05",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.02",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "478",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "150.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10.1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "6.5 - 12.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Mentzer",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Iron Deficiency Anaemia",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Mentzer",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Iron Deficiency Anaemia",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Hb HPLC",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Thalassemia",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "International council for Standardization in Hematology",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Swetha V\nMD",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "DCP MD",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "PDCC (Oncopathology) MD",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lal PathLabs Ltd & Biochemical Genetics",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lal PathLabs Ltd",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "9",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "41 Years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "8/8/2024 7:50:00AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "9/8/2024 10:06:36AM",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "ADDRESS",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "KADUBEESANAHALLI",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "the Referring Physician",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "\u0178Report",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "72 hours",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Authorized Medical\nPractitioner/Doctor",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "11",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "11-2788-2134",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "466917439",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    }
+  ]
+}

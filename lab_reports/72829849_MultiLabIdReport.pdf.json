@@ -1,0 +1,264 @@
+{
+  "file": "lab_reports/72829849_MultiLabIdReport.pdf",
+  "extracted_info": {
+    "patient_name": "Ms. RATHNA GABRIAL Gender",
+    "tests": [
+      {
+        "test_name": "Female Lab ID",
+        "value": "50635928369",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "79",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "1",
+        "unit": "of",
+        "confidence": 1.0
+      }
+    ],
+    "confidence": 1.0
+  },
+  "entities": [
+    {
+      "text": "MC-6072\nLABORATORY REPORT - FINAL\nName",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "RATHNA GABRIAL Gender",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "50635928369",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "30-Jun-2025",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Shivajinagar Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Active - B12 H >",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "256.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "25.1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Active B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "B12",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Holo Transcobalamin",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vit B12",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Transcobalamin",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Haptocorrin",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "B12",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "300",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Active Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Holo TC",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Holo Transcobalamin",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Intrinsic",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ab",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "669-674",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Bhuvaneshwari N B\nReleased",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "non-NARL",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "NARL",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Note:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Bhuvaneshwari N B\nConsultant Biochemist",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "101322",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    }
+  ]
+}

@@ -1,0 +1,2757 @@
+{
+  "file": "lab_reports/17756177_50641000301.pdf",
+  "extracted_info": {
+    "patient_name": "Mr K P SHRAVAN Gender",
+    "tests": [
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Adjusted Calcium",
+        "value": "8.1",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Chloride",
+        "value": "109",
+        "unit": "mEq/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "1",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "2",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Haemoglobin",
+        "value": "14.5",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "PCV",
+        "value": "44.80",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Mean Corpuscular Volume",
+        "value": "84.4",
+        "unit": "fL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Mean Corpuscular Hemoglobin",
+        "value": "27.3",
+        "unit": "pg",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Mean Corpuscular Hb",
+        "value": "32.4",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Total WBC Count",
+        "value": "7000",
+        "unit": "Cells/cmm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Neutrophil",
+        "value": "60.7",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Lymphocyte",
+        "value": "28.9",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "3",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Eosinophil",
+        "value": "2.1",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Monocytes",
+        "value": "7.7",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Basophil",
+        "value": "0.6",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Platelet Count",
+        "value": "335000",
+        "unit": "Cells/cmm",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "4",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Cholesterol",
+        "value": "118",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Triglyceride",
+        "value": "154",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "HDL Cholesterol",
+        "value": "45.0",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "L",
+        "value": "32",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "5",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "NON HDL Cholestrol",
+        "value": "73.0",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "all",
+        "value": "10",
+        "unit": "yrs",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Reactive Protein",
+        "value": "0.20",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Calcium",
+        "value": "8.50",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Albumin",
+        "value": "4.44",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Adjusted Calcium L",
+        "value": "8.1",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "6",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "7",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "C",
+        "value": "5.5",
+        "unit": "%",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "8",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Cholesterol",
+        "value": "118",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Albumin",
+        "value": "4.44",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Globulin",
+        "value": "2.40",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Alkaline Phosphatase",
+        "value": "97.0",
+        "unit": "U/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Gamma Glutamyl Transferase",
+        "value": "15.0",
+        "unit": "U/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Bilirubin Total",
+        "value": "0.80",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Direct",
+        "value": "0.31",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "9",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Bilirubin Indirect",
+        "value": "0.49",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "10",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Urea",
+        "value": "31.24",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Creatinine",
+        "value": "1.11",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Uric Acid",
+        "value": "5.0",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Sodium",
+        "value": "140",
+        "unit": "mEq/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Potassium",
+        "value": "4.36",
+        "unit": "mEq/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Chloride H",
+        "value": "109",
+        "unit": "mEq/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "BUN",
+        "value": "14.56",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Blood Glucose Levels",
+        "value": "96.00",
+        "unit": "mg/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "11",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "mL Less than",
+        "value": "20",
+        "unit": "ng/ml",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Approximately half of Stage",
+        "value": "2",
+        "unit": "and",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "less than",
+        "value": "30",
+        "unit": "ng/mL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "and this deficiency is more common among stage",
+        "value": "4",
+        "unit": "CKD",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "less than",
+        "value": "22",
+        "unit": "pg/mL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "12",
+        "unit": "of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Male Lab ID",
+        "value": "50641000301",
+        "unit": "Age",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "40",
+        "unit": "Years",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "",
+        "value": "9035707662",
+        "unit": "Pt",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ID",
+        "value": "6186848",
+        "unit": "B",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "13",
+        "unit": "of",
+        "confidence": 1.0
+      }
+    ],
+    "confidence": 1.0
+  },
+  "entities": [
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reference Range\n",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "8.8",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "LDL Cholesterol",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "100",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "130 - 159",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "160",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "More than 190",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Active - B12 > 256.0",
+      "label": "WORK_OF_ART",
+      "confidence": 0.8
+    },
+    {
+      "text": "25.1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Note:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "B12",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "MMA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "B12",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "MMA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "B12",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Complete Blood Count\nHB",
+      "label": "WORK_OF_ART",
+      "confidence": 0.8
+    },
+    {
+      "text": "Haemoglobin 14.5",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "13.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "PCV",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "44.80 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "39 - 54",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "RBC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.31 million/cmm",
+      "label": "MONEY",
+      "confidence": 0.8
+    },
+    {
+      "text": "4.2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "84.4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "75 - 95",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "26 - 32",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "30 - 35",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "RDW",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "13.30 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "11",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "WBC Count 7000 Cells/cmm",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "60.7 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "40 - 75",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "28.9 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "20 - 45",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Kumar V\n",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "2.1 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "7.7 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.6 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "8.30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "6.5 - 12",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Whole Blood",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time:29-Jun-2025",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Kumar V\nReleased",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Kumar V\n",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Cholesterol 118 mg/dL Desirable",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "200",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "200-239",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "239",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "154",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "150",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "150",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Glycerol Phosphate Oxidase\nBorderline",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "200",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "500",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "HDL Cholesterol",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "45.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "55",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "35",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "LDL Cholesterol (Direct",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "100",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Enzymatic",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "130",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "160",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "More than 190",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.7",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Chol/HDL 2.6",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Note:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "CHD",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "CHD",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "10-year",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "CHD >",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "20%",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "130",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2+",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10-year",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "20%",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "160",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "190",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10yrs",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "CAD",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "1.10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.70",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1.45 \u00b5IU/mL",
+      "label": "MONEY",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.35",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Reactive Protein\nC-",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "8.4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Arsenazo III\nAlbumin 4.44",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "3.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "8.8",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Note:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "6",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "7",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "5.5 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.6 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.7 - 6.4 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6.5 %",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "ADA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2012",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Estimated Avg Glucose",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "3 Mths",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "111.15",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "8-12 weeks",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "RBC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "SS",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "SC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Fructosamine",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Kumar V\nNote:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "8",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Kumar V\n",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "118",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "200",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "200-239",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "239",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "6.84",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "6.4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2.40",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Albumin / Globulin",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "1.85 1.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L 0 - 55",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "IFCC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "U/L 5 - 34",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "IFCC",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "97.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "50 - 116",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "15.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Bilirubin Total",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.80",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Bilirubin-Direct",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.0 - 0.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Note:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "9",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "31.24",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "42.8",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1.11",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.6",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3.7",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "140 mEq",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "136",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Indirect\nPotassium",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "4.36 mEq",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Indirect\nChloride H 109 mEq",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "BUN",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "96.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "126",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "200",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "ADA",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "2012",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Plasma Fluoride F Coll",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "11",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "VITAMIN",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "35.00",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Less than 20",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "21 - 29",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "100",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50%",
+      "label": "PERCENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Northern",
+      "label": "LOC",
+      "confidence": 0.8
+    },
+    {
+      "text": "winter",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Celiac",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "D.",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "D. Serum",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "80",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "150",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Approximately half",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "less than 30",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "less than 22",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "50641000301",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Years Mob",
+      "label": "EVENT",
+      "confidence": 0.8
+    },
+    {
+      "text": "6186848",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Loc",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Time",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "12:22",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "KA-Bannergatta Road Ref",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sample Collected",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Active - B12 H >",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "256.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "25.1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Active B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "B12",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Holo Transcobalamin",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vit B12",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Transcobalamin",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Haptocorrin",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "B12",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "300",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Active Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Holo TC",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vit B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Holo Transcobalamin",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Intrinsic",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Ab",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vitamin B12",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "669-674",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Neuberg Anand Reference Laboratory",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "non-NARL",
+      "label": "NORP",
+      "confidence": 0.8
+    },
+    {
+      "text": "NARL",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Note:(LL-VeryLow",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "C-Critical",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2018 0000588",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "29",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    }
+  ]
+}

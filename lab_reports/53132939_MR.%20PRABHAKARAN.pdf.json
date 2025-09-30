@@ -1,0 +1,255 @@
+{
+  "file": "lab_reports/53132939_MR.%20PRABHAKARAN.pdf",
+  "extracted_info": {
+    "patient_name": "MR. PRABHAKARAN NAIR . Collection",
+    "tests": [
+      {
+        "test_name": "PRABHAKARAN NAIR",
+        "value": ".",
+        "unit": "Collection",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Gender",
+        "value": "72",
+        "unit": "Y",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "SODIUM",
+        "value": "121",
+        "unit": "mmol/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "POTASSIUM",
+        "value": "4.4",
+        "unit": "mmol/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "CHLORIDE",
+        "value": "84",
+        "unit": "mmol/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Verified By",
+        "value": "222626",
+        "unit": "Verified",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "kindly submit request with in",
+        "value": "2",
+        "unit": "days",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Contact customer care",
+        "value": "9680396803",
+        "unit": "for",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "1",
+        "unit": "Of",
+        "confidence": 1.0
+      }
+    ],
+    "confidence": 1.0
+  },
+  "entities": [
+    {
+      "text": "Reg",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "17",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "11:30 AM",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "NAIR",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "17",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "11:31 AM\nAge/Gender :",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "17",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "12:13 PM",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "Emami Frank Ross Limited Report",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "17",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13:35 PM",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "Biological Ref",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Interval Specimen",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "SODIUM",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "121",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "136",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Serum\nMethod:Indirect ISE\nPOTASSIUM 4.4 mmol/",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Serum\nMethod:Indirect ISE\nCHLORIDE",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "84",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Serum\nMethod:Indirect ISE\nRemarks",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Sodium",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Verified Date",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "17",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Ashwin Kumar",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "MD",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2 days",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Referring Physician",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lab LLP",
+      "label": "WORK_OF_ART",
+      "confidence": 0.8
+    },
+    {
+      "text": "Cochin/Bangolore",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jurisdiction",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "9680396803",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient/Client",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vasanthnagar",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Bangalore",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "560051",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "file": "lab_reports/32187653_MRS.%20SATHYAVATHY.pdf",
+  "extracted_info": {
+    "patient_name": "MRS. SATHYAVATHY . Collection",
+    "tests": [
+      {
+        "test_name": "SATHYAVATHY",
+        "value": ".",
+        "unit": "Collection",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Gender",
+        "value": "70",
+        "unit": "Y",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "BILIRUBIN TOTAL",
+        "value": "0.44",
+        "unit": "mg/dl",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "BILIRUBIN DIRECT",
+        "value": "0.26",
+        "unit": "mg/dl",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "BILIRUBIN INDIRECT",
+        "value": "0.18",
+        "unit": "mg/dl",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "TOTAL PROTEIN",
+        "value": "7.1",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ALBUMIN",
+        "value": "3.9",
+        "unit": "g/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Children",
+        "value": "4",
+        "unit": "days",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "GLOBULIN",
+        "value": "3.2",
+        "unit": "g/dL",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "GGT",
+        "value": "15",
+        "unit": "U/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "ALKALINE PHOSPHATASE",
+        "value": "67",
+        "unit": "U/L",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Teitz",
+        "value": "5",
+        "unit": "th",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "1",
+        "unit": "Of",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "SATHYAVATHY",
+        "value": ".",
+        "unit": "Collection",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Gender",
+        "value": "70",
+        "unit": "Y",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Wallach",
+        "value": "10",
+        "unit": "th",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "It is recommended in the following conditions",
+        "value": "1.",
+        "unit": "To",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "To monitor the side effects of certain hepatotoxic drugs",
+        "value": "3.",
+        "unit": "To",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "monitor effectiveness of treatment for liver diseases",
+        "value": "4.",
+        "unit": "If",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Verified By",
+        "value": "185944",
+        "unit": "Verified",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "kindly submit request with in",
+        "value": "2",
+        "unit": "days",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Contact customer care",
+        "value": "9680396803",
+        "unit": "for",
+        "confidence": 1.0
+      },
+      {
+        "test_name": "Page",
+        "value": "2",
+        "unit": "Of",
+        "confidence": 1.0
+      }
+    ],
+    "confidence": 1.0
+  },
+  "entities": [
+    {
+      "text": "Hosp",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reg",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "12:27 PM\nAge/Gender :",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13:09 PM",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "Emami Frank Ross Limited Report",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Biological Ref",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Interval Specimen\nLIVER FUNCTION",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.44",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.9 Serum\nMethod:Diazonium",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.26",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Serum\nMethod:Diazotization",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "0.18",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "0.1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Serum\nMethod:Calculated",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "7.1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4.8",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3.6-6.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4.6-7.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1 week",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "4.4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.1-7.3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "5.6-7.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3 years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "6.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "6.7",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2.8",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4 days -14 years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.8",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "14-18 years",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "3.2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3.2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2.3-3.5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "22",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L 10-35",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "15",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "40",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Serum\nMethod:G",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "ALKALINE",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "67",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "U/L",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "AMP Buffer\nTotal Bilirubin",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Neonates",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "0-1",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "6.0-10.0",
+      "label": "QUANTITY",
+      "confidence": 0.8
+    },
+    {
+      "text": "3-5",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "10.0-14.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4.0",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "5th",
+      "label": "ORDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "150",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Vasanthnagar",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Bangalore",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "560051",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Hosp",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "Reg",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "12:27 PM\nAge/Gender :",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "13:09 PM",
+      "label": "TIME",
+      "confidence": 0.8
+    },
+    {
+      "text": "Emami Frank Ross Limited Report",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1-16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "30-300",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "10th",
+      "label": "ORDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "5",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Verified Date",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "Ashwin Kumar",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "MD",
+      "label": "GPE",
+      "confidence": 1.0
+    },
+    {
+      "text": "2 days",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Referring Physician",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Lab LLP",
+      "label": "WORK_OF_ART",
+      "confidence": 0.8
+    },
+    {
+      "text": "Cochin/Bangolore",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Jurisdiction",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "9680396803",
+      "label": "DATE",
+      "confidence": 1.0
+    },
+    {
+      "text": "Patient/Client",
+      "label": "ORG",
+      "confidence": 1.0
+    },
+    {
+      "text": "Vasanthnagar",
+      "label": "PRODUCT",
+      "confidence": 0.8
+    },
+    {
+      "text": "Bangalore",
+      "label": "PERSON",
+      "confidence": 1.0
+    },
+    {
+      "text": "560051",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "confidence": 0.8
+    }
+  ]
+}
