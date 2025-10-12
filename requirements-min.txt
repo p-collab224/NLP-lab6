@@ -1,0 +1,8 @@
+pytesseract
+pdfplumber
+pillow
+spacy
+pandas
+requests
+gradio
+flask
